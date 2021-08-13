@@ -1,4 +1,5 @@
-// cd "c:\Users\Jayanta\Desktop\" && gcc search.c -lWs2_32 -o search && "c:\Users\Jayanta\Desktop\"search
+// For windows: gcc search.c -lWs2_32 -o search
+// For others: gcc search.c -o search
 
 #ifndef _WIN32
 #define STYLISH_TEXT
